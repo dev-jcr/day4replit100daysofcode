@@ -1,4 +1,4 @@
-# Great magicians story
+# Great magicians story - Concatenate, change text color
 
 hatedChar = input("Which is the character you hate the most? ")
 funnyName = input("Which is the weirdest name you know? ")
