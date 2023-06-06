@@ -1,3 +1,5 @@
+# Great magicians story
+
 hatedChar = input("Which is the character you hate the most? ")
 funnyName = input("Which is the weirdest name you know? ")
 presidentPet = input("If you could pet a president, how you would name it? ")
